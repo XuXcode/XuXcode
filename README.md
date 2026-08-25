@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm XuX 👋
 
 **Java Full-Stack Development · AI Agent Development**
