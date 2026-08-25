@@ -1,34 +1,35 @@
 # Hi, I'm XuX 👋
 
-**Java Backend · AI Applications · Developer Tools**
+**Java Full-Stack Development · AI Agent Development**
 
 🎓 Software Engineering student at **Hunan University of Technology**
-💻 Interested in backend development, AI applications and open-source technologies.
+💻 Interested in full-stack development, AI Agents and open-source technologies.
 
-> 湖南工业大学软件工程专业学生，目前主要学习 **Java 后端与 AI 应用开发**。
-> 喜欢通过实际开发理解技术，也在持续探索 AI 与软件工程结合的可能性。
+> 湖南工业大学软件工程专业学生，目前主要学习 **Java 全栈开发与 AI Agent 开发**。
+> 喜欢通过实际开发理解技术，并持续探索 AI 与软件工程结合的应用场景。
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend:** Java · Spring Boot · MyBatis · MySQL · Redis
-**AI:** Python · LLM Applications · AI Agent
+**Java:** Java · Spring Boot · MyBatis · MySQL · Redis
+**Frontend:** HTML · CSS · JavaScript
+**AI:** Python · LLM · AI Agent
 **Tools:** Git · GitHub · Maven
 
 ---
 
 ## 🌱 Currently Learning
 
-`Data Structures & Algorithms` · `Redis` · `Message Queue` · `AI Agent` · `Backend Engineering`
+`Java Full-Stack Development` · `AI Agent Development` · `Data Structures & Algorithms`
 
 ---
 
 ## 🎯 Goals
 
-* Improve my backend engineering skills
-* Explore practical AI applications
-* Build useful developer tools
+* Build solid Java full-stack development skills
+* Explore practical AI Agent applications
+* Combine AI with traditional software development
 * Contribute to open-source projects
 
 ---
