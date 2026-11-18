@@ -32,3 +32,4 @@
 
 - [GitHub 开源活动](https://github.com/XuXcode)
 - [个人技术博客](https://xuxcode.github.io/)
+- [稀土掘金 · 技术文章](https://juejin.cn/user/27920770562236)
