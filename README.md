@@ -30,6 +30,6 @@
 
 持续阅读开源项目源码，参与真实的工程问题讨论与代码贡献，并在个人博客记录学习与实践过程。
 
-- [GitHub 开源活动](https://github.com/XuXcode)
+- [GitHub 开源贡献 · Pull Requests](https://github.com/search?q=is%3Apr+author%3AXuXcode+-user%3AXuXcode+is%3Apublic&type=pullrequests)
 - [个人技术博客](https://xuxcode.github.io/)
 - [稀土掘金 · 技术文章](https://juejin.cn/user/27920770562236)
