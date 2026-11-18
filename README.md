@@ -17,11 +17,7 @@
 
 ## 🛠️ Tech Stack
 
-| Direction | Technologies |
-| :--- | :--- |
-| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis&amp;theme=dark" height="36" alt="Java, Spring, MySQL, Redis" /><br>Java · Spring Boot · MySQL · Redis |
-| **AI & Application** | <img src="https://skillicons.dev/icons?i=python,fastapi&amp;theme=dark" height="36" alt="Python, FastAPI" /><br>Python · FastAPI |
-| **Frontend & Tools** | <img src="https://skillicons.dev/icons?i=js,vue,git,github&amp;theme=dark" height="36" alt="JavaScript, Vue, Git, GitHub" /><br>JavaScript · Vue 3 · Git · GitHub |
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,python,fastapi,js,vue,git,github&amp;theme=dark&amp;perline=10" alt="Java, Spring Boot, MySQL, Redis, Python, FastAPI, JavaScript, Vue 3, Git, GitHub" />
 
 ## 🌱 Currently Exploring
 
