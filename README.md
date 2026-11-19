@@ -4,14 +4,14 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:1F6FEB&amp;height=175&amp;section=header&amp;text=Hi%2C%20I'm%20XuX&amp;fontSize=43&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=Build.%20Learn.%20Contribute.&amp;descSize=16&amp;descAlignY=59" alt="Hi, I'm XuX — Build. Learn. Contribute." />
 
   <p><strong>Java Full-Stack Development · AI Agent Development</strong></p>
-  <p>Software Engineering Student @ Hunan University of Technology</p>
+  <p>Software Engineering Student</p>
   <a href="https://xuxcode.github.io/"><img src="https://img.shields.io/badge/Personal%20Blog-1F6FEB?style=flat-square&amp;logo=hexo&amp;logoColor=white" alt="Personal Blog" /></a>
   <a href="https://github.com/XuXcode"><img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 </div>
 
 ## 👨‍💻 About Me
 
-湖南工业大学软件工程专业学生，目前主要探索 **Java 后端开发、AI Agent 与大模型应用开发**。
+软件工程专业学生，目前主要探索 **Java 后端开发、AI Agent 与大模型应用开发**。
 
 喜欢从实际项目中理解技术，通过阅读框架源码和参与开源贡献，深入理解软件系统的设计与实现。
 
